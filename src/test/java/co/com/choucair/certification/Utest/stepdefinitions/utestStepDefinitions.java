@@ -24,16 +24,16 @@ public class utestStepDefinitions {
 
     @Given("^than Daniel want register utest platform$")
     public void thanDanielWantRegisterUtestPlatform() {
-        theActor("Daniel").wasAbleTo(OpenUp.thePage());
+        theActor("Daniel").wasAbleTo(OpenUpUtest.thePage());
     }
 
     @When("^he fill out the forms$")
     public void heFillOutTheForms(List<UtestData> data) {
         theActorInTheSpotlight().attemptsTo(
-                Personal.fill(data),
-                Address.fill(data),
-                Devices.fill(data),
-                Complete.fill(data)
+                FillPersonalInformation.inPagePersonalInformation(data),
+                FillAdress.inPageAdress(data),
+                FillDevices.inPageDevice(data),
+                FillValidateForm.inPageValidate(data)
         );
     }
 

@@ -1,0 +1,35 @@
+
+^
+java:S3252	"<Use static access with "org.openqa.selenium.By" for "xpath".(öà»úÿÿÿÿ8èçÍò/
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ë£ÙËıÿÿÿÿ8ëƒ„ó/
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(©ú™µ8õğšó/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÀ˜Ô
+\
+java:S1118":Add a private constructor to hide the implicit public one.(†¨ä°üÿÿÿÿ8–øò/
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(»ê®·ûÿÿÿÿ8õğšó/
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(èšòúúÿÿÿÿ8È÷ó/
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(õƒ´é8Ë ›ó/
+^
+java:S3252
+"<Use static access with "org.openqa.selenium.By" for "xpath".(Ÿ•Á¸ıÿÿÿÿ8ÀÔÔò/
+o
+java:S1192"MDefine a constant instead of duplicating this literal "input movil " 3 times.(»ê®·ûÿÿÿÿ8”à¢ó/
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(¢õñ8È÷ó/
+g
+java:S1192"JDefine a constant instead of duplicating this literal "div movil" 3 times.(©ú™µ8è”¢ó/
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(› â8Ë ›ó/
+X
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Š„%8–øò/
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(—Äÿ–ÿÿÿÿÿ8Ï—ó/
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(µ¸„ì8îÕªò/
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(²àÑô8ˆ«†ò/

@@ -1,0 +1,24 @@
+co/com/choucair/certification/Utest/userinterface/AddressPage.java
+ co.com.choucair.certification.Utest.userinterface.AddressPage
+co/com/choucair/certification/Utest/userinterface/PersonalPage.java
+ co.com.choucair.certification.Utest.userinterface.PersonalPage
+co/com/choucair/certification/Utest/questions/Answer.java
+ co.com.choucair.certification.Utest.questions.Answer
+co/com/choucair/certification/Utest/userinterface/UtestPage.java
+ co.com.choucair.certification.Utest.userinterface.UtestPage
+co/com/choucair/certification/Utest/userinterface/DevicePage.java
+ co.com.choucair.certification.Utest.userinterface.DevicePage
+co/com/choucair/certification/Utest/userinterface/CompletePage.java
+ co.com.choucair.certification.Utest.userinterface.CompletePage
+co/com/choucair/certification/Utest/model/UtestData.java
+ co.com.choucair.certification.Utest.model.UtestData
+co/com/choucair/certification/Utest/task/FillDevices.java
+ co.com.choucair.certification.Utest.task.FillDevices
+co/com/choucair/certification/Utest/task/FillCompleteForm.java
+ co.com.choucair.certification.Utest.task.FillCompleteForm
+co/com/choucair/certification/Utest/task/FillAdress.java
+ co.com.choucair.certification.Utest.task.FillAdress
+co/com/choucair/certification/Utest/task/OpenUpUtest.java
+ co.com.choucair.certification.Utest.task.OpenUpUtest
+co/com/choucair/certification/Utest/task/FillPersonalInformation.java
+ co.com.choucair.certification.Utest.task.FillPersonalInformation

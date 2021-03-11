@@ -1,7 +1,7 @@
 package co.com.choucair.certification.Utest.questions;
 
 import co.com.choucair.certification.Utest.model.UtestData;
-import static co.com.choucair.certification.Utest.userinterface.CompletePage.*;
+import static co.com.choucair.certification.Utest.userinterface.ValidatePage.*;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;
